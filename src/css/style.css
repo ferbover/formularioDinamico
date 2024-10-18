@@ -1,0 +1,9 @@
+.erro{
+    border:2px solid red;
+}
+
+.sucesso{
+    border: 2px solid green;
+}
+
+/* o css não precisa ser vinculado ao js, o js irá utilizar do DOM para acessar o css diretamente pelo html, onde o css já foi vinculado*/
